@@ -1,0 +1,35 @@
+body {
+    background-color: #2C0E03;
+    text-align: center;
+    color: white;
+    
+}
+
+.puppyImage {
+    width: 30%;
+}
+
+.PuppyCard {
+    justify-content: center;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+}
+
+.mySideNav {
+    background-color: #6B4524;
+    position: fixed;
+}
+
+.flexBox {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    border: white, solid, 5px;
+}
+
+/* .flexbox {
+    display: flex;
+    flex-direction: row ltr;
+} */
